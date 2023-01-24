@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8257564a.css",
+    "main.js": "/static/js/main.9d5ef914.js",
+    "static/js/787.f15d48c4.chunk.js": "/static/js/787.f15d48c4.chunk.js",
+    "static/media/cantarell-all-400-normal.woff": "/static/media/cantarell-all-400-normal.c5f3d5b554bc12a6e48f.woff",
+    "static/media/zen-dots-all-400-normal.woff": "/static/media/zen-dots-all-400-normal.269e929260757fd813b0.woff",
+    "static/media/zen-dots-latin-400-normal.woff2": "/static/media/zen-dots-latin-400-normal.843ec199fac44cca7167.woff2",
+    "static/media/cantarell-latin-400-normal.woff2": "/static/media/cantarell-latin-400-normal.c6fe6ba8cff06f571a99.woff2",
+    "static/media/cantarell-latin-ext-400-normal.woff2": "/static/media/cantarell-latin-ext-400-normal.49e2e3fdecd3c9925aa2.woff2",
+    "static/media/zen-dots-latin-ext-400-normal.woff2": "/static/media/zen-dots-latin-ext-400-normal.cb84dad153fe481e7530.woff2",
+    "index.html": "/index.html",
+    "main.8257564a.css.map": "/static/css/main.8257564a.css.map",
+    "main.9d5ef914.js.map": "/static/js/main.9d5ef914.js.map",
+    "787.f15d48c4.chunk.js.map": "/static/js/787.f15d48c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8257564a.css",
+    "static/js/main.9d5ef914.js"
+  ]
+}
